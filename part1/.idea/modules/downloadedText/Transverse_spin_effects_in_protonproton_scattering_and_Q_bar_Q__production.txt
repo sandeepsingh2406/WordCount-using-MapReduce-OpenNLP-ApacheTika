@@ -1,0 +1,504 @@
+
+ar
+X
+
+iv
+:h
+
+ep
+-p
+
+h/
+02
+
+10
+00
+
+6v
+1 
+
+ 1
+ O
+
+ct
+ 2
+
+00
+2
+
+Transverse spin effects in proton-proton
+scattering and QQ̄ production
+
+S.V. Goloskokov
+
+Bogoliubov Laboratory of Theoretical Physics, Joint Institute for Nuclear Research, Dubna
+141980, Moscow region, Russia
+
+Abstract. We discuss transverse spin effects caused by the spin-flip part of the Pomeron coupling
+with the proton. The predicted spin asymmetries in proton-proton scattering and QQ production
+in proton-proton and lepton-proton reactions are not small and can be studied in future polarized
+experiments.
+
+In this report, we discuss what future facilities can be used to ascertain the existence
+of the spin spin-flip part of the Pomeron coupling. The spin structure of the Pomeron
+was analysed by different authors (see [1, 2] and reference therein). Its manifestation
+can be investigated in the elastic pp scattering at low t [3]. We shall analyze here the
+single spin asymmetries in the elastic pp scattering near the diffraction minimum and of
+the QQ̄ production in the pp reaction. The double spin asymmetries of QQ̄ production in
+lepton-proton reactions for a longitudinally polarized lepton and a transversely polarized
+proton will be studied too. It will be shown that these asymmetries are sensitive to the
+spin-flip part of the Pomeron coupling and predicted asymmetries are not small, about
+10%. They can be used to obtain information about the spin structure of the Pomeron
+coupling. To study spin effects in diffractive reactions, we use the two- gluon exchange
+model , which is directly connected with the Pomeron. On the other hand, diffractive
+processes can be expressed in terms of the generalized or skewed parton distribution
+(GPD) in the nucleon Fζ (x), Kζ (x) [4]. The connection of the two-gluon model with
+GPD will be shown.
+
+The two-gluon coupling with the proton can be parametrized in the form [5]
+
+V αβpgg(p, t,xP, l⊥) = B(t,xP, l⊥)(γ
+α pβ + γβ pα)
+
++
+iK(t,xP, l⊥)
+
+2m
+(pασ βγrγ + pβ σ αγrγ)+ .... (1)
+
+Here m is the proton mass. In the matrix structure (1) we wrote only the terms with
+the maximal powers of a large proton momentum p which are symmetric in the gluon
+indices α,β . The structure proportional to B(t, ...) determines the spin-non-flip contri-
+bution. The term ∝ K(t, ...) leads to the transverse spin-flip at the vertex.
+
+The spin-dependent cross section of diffractive processes are expressed in terms of
+the soft gluon coupling (1), which in the case of hadron production is convoluted with
+the hard hadron production amplitude. The spin asymmetries are expressed in terms of
+the functions B(t, ...) and K(t, ...) integrated over the gluon transverse momentum l⊥.
+
+
+
+
+The helicity-non-flip and helicity-flip amplitudes of the polarized proton off the spin-
+less particle (a meson or unpolarized proton) can be written in terms of the invariant
+functions B̃ and K̃
+
+F++(s, t) = is[B̃(t)] f (t); F+−(s, t) = is
+
+√
+
+|t|
+m
+
+K̃(t) f (t), (2)
+
+where f(t) is determined by the Pomeron coupling with the other hadron. The functions
+B̃ and K̃ are defined by the integrated over l⊥ structures from (1).
+
+There are some models that provide spin-flip effects which do not vanish at high
+energies. In the model [1], the amplitudes K and B have a phase shift caused by the soft
+Pomeron rescattering effect. The vector diquarks in the diquark model [2] generate the
+K amplitude which is out of phase with the Pomeron contribution to the amplitude B.
+The value |K̃|/|B̃| ∼ 0.1 found in [1, 2] will be used in our estimations of the asymmetry
+in diffractive hadron production.
+
+The single spin asymmetry is determined by
+
+AN ∼ 2
+√
+
+|t|
+m
+
+Im(BK∗)
+|B|2 . (3)
+
+The models [1, 2] describe the experimental data on single spin transverse asymmetry
+AN [6] quite well. Thus, the weak energy dependence of spin asymmetries in exclusive
+reactions is now not in contradiction with the experiment [1, 7].
+
+FIGURE 1. Predictions of the model [1] for single-spin transverse asymmetry of the pp scattering at
+RHIC energies [7]. Error bar indicates expected statistical errors for the PP2PP experiment at RHIC.
+
+In the diffraction minimum the imaginary part of the amplitude B is equal to zero
+and the asymmetry is determined by the product (ReB ImK). Thus, the asymmetry
+near the diffraction minimum is sensitive to the imaginary part of the spin–flip K,
+amplitude and study of the AN asymmetry in the PP2PP experiment at RHIC can give
+a direct information about the energy dependence of the amplitude K. There are model
+predictions for AN in this region. The model [1] predicts a large negative value of AN
+asymmetry near the diffraction minimum which weakly depends on s at the RHIC energy
+
+
+
+range [7] and AN is of about 10% for |t| ∼ 3GeV2 (Fig.1). Other model predictions for
+single-spin asymmetry at small momentum transfer was discussed in [8].
+
+The single spin asymmetry of diffractive QQ̄ production in polarized pp reaction was
+estimated in [9]. It was found that AN is determined by Eq. (3) which is modified by the
+amplitude of hard QQ̄ production. The expected value of the single spin asymmetry in
+this case is about 5% in the RHIC energy range.
+
+Let us study now diffractive double spin asymmetries of QQ̄ production in lepton-
+proton reactions for a longitudinally polarized lepton and a transversely polarized proton
+within the two-gluon model. This model should describe the cross sections of hard and
+light quark production at small x < 0.1 as well. The spin-dependent cross section can be
+written in the form
+
+d5σ(±)
+dQ2dydxpdtdk2⊥
+
+=
+(
+
+(2−2y+y2)
+(2−y)
+
+) C(xP,Q
+2) N(±)
+
+√
+
+1−4(k2⊥ +m2q)/M2X
+. (4)
+
+Here C(xP,Q
+2) is a normalization function which is common for the spin average and
+
+spin dependent cross section; N(±) is determined by a sum of graphs integrated over the
+gluon momenta l and l′. The function N(+) determines the spin-average cross section.
+It has the form
+
+N(+) =
+(
+
+|B̃|2 + |t|/m2|K̃|2
+)
+
+Π(+)(t,k2⊥,Q
+2), (5)
+
+with
+
+B̃ ∼
+∫ l2⊥<k
+
+2
+0
+
+0
+
+d2l⊥(l
+2
+⊥ +~l⊥~r⊥)
+
+(l2⊥ +λ
+2)((~l⊥+~r⊥)
+
+2 +λ 2)
+B(t, l2⊥,xP, ...) = F
+
+g
+xP
+
+(xP, t,k
+2
+0)
+
+K̃ ∼
+∫ l2⊥<k
+
+2
+0
+
+0
+
+d2l⊥(l
+2
+⊥+
+
+~l⊥~r⊥)
+
+(l2⊥+λ
+2)((~l⊥+~r⊥)
+
+2 +λ 2)
+K(t, l2⊥,xP, ...) = K
+
+g
+xP
+
+(xP, t,k
+2
+0), (6)
+
+where k20 ∼ (k2⊥ + m2q)/(1− β ). The connection of the two-gluon structure functions
+from (1) with GPD FgxP(xP, t,k
+
+2
+0) and K
+
+g
+xP
+
+(xP, t,k
+2
+0) is written. This connection is general
+
+and is shown for a vector meson and QQ̄ production in [5].
+The function N(−) which determines the spin-dependent cross sections looks like
+
+N(−) =
+√
+
+|t|
+m2
+
+(
+
+B̃K̃∗ + B̃∗K̃
+)
+
+[
+(~Q~S⊥)
+
+m
+Π(−)
+
+Q
+(t,k2⊥,Q
+
+2)
+
++
+(~k⊥
+
+~S⊥)
+
+m
+Π(−)
+
+k
+(t,k2⊥,Q
+
+2)]. (7)
+
+The other form of interference between B and K with respect to (3) appears in (7)
+because we consider here the double spin effects. The large value of asymmetry will
+appear for a small phase shift between the amplitudes.
+
+The asymmetry is approximately proportional to the ratio of polarized and spin–
+average gluon distribution functions
+
+AQQ̄LT ∼C
+QQ̄
+
+Kg
+ζ
+(ζ )
+
+Fg
+ζ
+(ζ )
+
+with ζ = xP and |K̃|/|B̃| ∼ 0.1 (8)
+
+
+
+The spin-dependent contribution to the asymmetry which is proportional to ~k⊥
+~S⊥
+
+in (7) will be analyzed for the case when the transverse jet momentum~k⊥ is parallel
+to the target polarization ~S⊥. The asymmetry is maximal in this case. To observe this
+contribution to asymmetry, it is necessary to distinguish experimentally the quark and
+antiquark jets. If we do not separate events with~k⊥ for the quark jet, e.g., the resulting
+asymmetry will be equal to zero because the transverse momentum of the quark and
+antiquark are equal and opposite in sign.
+
+1 2 3 4 5
+0,0
+
+5,0
+
+10,0
+
+15,0
+
+20,0
+
+ 
+
+ 
+
+A
+sy
+
+m
+m
+
+et
+ry
+
+ (
+%
+
+)
+
+k
+t
+
+2 (GeV)2
+1,0 1,5 2,0
+
+10,0
+
+15,0
+
+20,0
+
+25,0
+
+ 
+
+ 
+
+A
+sy
+
+m
+m
+
+et
+ry
+
+ (
+%
+
+)
+
+k
+t
+
+2 (GeV)2
+
+FIGURE 2. The AklT asymmetry in diffractive
+heavy QQ̄ production at
+
+√
+s = 20GeV for xP =
+
+0.1, y = 0.5, |t| = 0.3GeV2: dotted line-for
+Q2 = 0.5GeV2; solid line-for Q2 = 1GeV2;
+dot-dashed line-for Q2 = 5GeV2; dashed line-
+for Q2 = 10GeV2.
+
+FIGURE 3. The AklT asymmetry in diffractive
+light QQ̄ production for Q2 = 5GeV2, xP =
+0.1, y = 0.5, |t| = 0.3(GeV )2 at √s = 7GeV.
+
+The predicted asymmetry for heavy cc̄ production at the COMPASS energies is shown
+in Fig.2. The asymmetry for light quark production is approximately of the same order
+of magnitude. The expected AlT asymmetry for light quark production at HERMES
+
+is shown in Fig.3. The function CQQ̄
+k
+
+in (8) is quite large, about 1.5 at the HERMES
+
+energy for k2⊥ = 1.3GeV
+2, Q2 = 5GeV2, xP = 0.1, y = 0.5, and |t|= 0.3GeV2. The spin–
+
+dependent cross section vanishes for Q2 → 0, while the spin–average cross section is
+constant in this limit. As a result, the asymmetry can be estimated as AlT ∝ Q
+
+2/(Q2+Q20)
+with Q20 ∼ 1GeV2. This shows a possibility of studying the polarized gluon distribution
+Kg
+
+ζ
+(x) in the COMPASS and HERMES experiment at Q2 ≥ 0.5GeV2.
+The contribution to asymmetry ∝ ~Q~S⊥ in (7) is simpler to study experimentally. The
+
+expected asymmetry in this case is not small too, about 5% or a little bit smaller. The
+predicted CQQ̄
+
+Q
+in (8) in this case is about 0.3. In contrast to the AklT term, the A
+
+Q
+lT
+
+asymmetry has a strong mass dependence [5].
+Similar analyses have been carried out for diffractive J/Ψ production which is de-
+
+scribed by the same two-gluon exchange. Unfortunately, the double spin AlT asymmetry
+in this case is proportional to xP which is fixed here by xP ∼ (m2V +Q2 + |t|)/(sy). As a
+
+
+
+result the expected asymmetry is small and Cg(J/Ψ) ∼ 0.007 for vector meson produc-
+tion in the HERMES energy range. It is difficult to expect experimental study of such
+small asymmetry.
+
+I this report we have studied the transverse asymmetries caused by the spin structure
+of the Pomeron coupling with the proton. Similar to the low energy experiments [6] we
+predict the large negative asymmetry in the vicinity of the diffractive minimum in elastic
+pp scattering at the RHIC energies. If the weak energy dependence of the asymmetry
+in this region is found in the PP2PP experiment at the RHIC, it will give a definite
+indication of the spin-dependent Pomeron coupling. Another possibility is to study the
+single-spin asymmetry of diffractive QQ̄ production at RHIC which is predicted to be
+about 5%.
+
+The diffractive hadron leptoproduction for a longitudinally polarized lepton and a
+transversely polarized proton at high energies has been studied. The AlT asymmetry
+is found to be proportional to the ratio of structure functions AlT = CK
+
+g/Fg. If the
+Pomeron has a spin structure, the ratio Kg/Fg should have a weak x dependence at low
+x < 0.1. The AlT asymmetry can be used to get information on the transverse distribution
+
+KgxP(xP, t) from experiment if the function C in (8) is not small. We predict that C
+QQ̄
+k
+
+∼ 1
+for the term ∝~k⊥~S⊥ and C
+
+QQ̄
+Q
+
+∼ 0.3 for the contribution ∝ ~Q~S⊥ in the asymmetry (7).
+We can see that the expected values of C are quite large and such asymmetries might be
+excellent objects to study transverse spin effects in the proton– gluon coupling.
+
+The results presented here should be applicable to the reactions with heavy quarks.
+For processes with light quarks, our predictions can be used in the small x region (x≤ 0.1
+e.g.) where the contribution of quark GPD is expected to be small. In the case of light
+quark production the polarized u and d quark GPD might be studied together with the
+gluon distribution in the region of not small x ≥ 0.1. Such experiments can be conducted
+at the HERMES and COMPASS spectrometers for a transversely polarized target and
+future eRHIC. We conclude that important information on the spin–dependent GPD
+Kζ (x) at small x can be obtained from the asymmetries in diffractive pp and l p reactions
+for longitudinally polarized lepton and transversely polarized hadron targets.
+
+The author is grateful to the Organizing Committee of SPIN2002 for the local finan-
+cial support. These report was supported in part by the Russian Foundation for Basic
+Research, Grants 00-02-16696 and 02-02-27409.
+
+REFERENCES
+
+1. Goloskokov S.V., Kuleshov S.P., Selyugin O.V., Z. Phys. C50 455-464 (1991).
+2. Goloskokov S.V., Kroll P., Phys. Rev. D60 014019 1-8 (1999).
+3. Buttimore N.H. et al., Phys.Rev. D59 114010 1-18 (1999); Kopeliovich B.Z., "PP elastic scattering at
+
+low t". This Proceedings.
+4. Radyushkin A.V., Phys. Rev, D56 5524-5557 (1997). Ji X., Phys.Rev. D55 7114-7125 (1997).
+5. Goloskokov S.V., Euro. Phys. J. C24 413-424 (2002).
+6. Fidecaro G. et al., Phys. Lett. B76 369-373 (1978), B105 309-314 (1981).
+7. Akchurin N., Goloskokov S.V., Selyugin O.V., Int.J.Mod.Phys. A14, 253-269 (1999).
+8. Martini A.F., Predazzi E., Diffractive effects in spin-flip pp amplitudes and predictions for relativistic
+
+energies. E-print: hep-ph/0209027.
+9. Goloskokov S.V., Phys.Rev. D53 5995-5999 (1996).
+
+
+

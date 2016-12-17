@@ -1,0 +1,1454 @@
+
+ar
+X
+
+iv
+:a
+
+st
+ro
+
+-p
+h/
+
+06
+08
+
+37
+1v
+
+1 
+ 1
+
+7 
+A
+
+ug
+ 2
+
+00
+6
+
+Electron thermal conductivity owing to collisions between degenerate electrons
+
+P. S. Shternin and D. G. Yakovlev
+Ioffe Physical Technical Institute, Politekhnicheskaya 26, 194021 Saint-Petersburg, Russia
+
+(Dated: 5th February 2008)
+
+We calculate the thermal conductivity of electrons produced by electron-electron Coulomb scat-
+tering in a strongly degenerate electron gas taking into account the Landau damping of transverse
+plasmons. The Landau damping strongly reduces this conductivity in the domain of ultrarelativistic
+electrons at temperatures below the electron plasma temperature. In the inner crust of a neutron
+star at temperatures T . 107 K this thermal conductivity completely dominates over the electron
+conductivity due to electron-ion (electron-phonon) scattering and becomes competitive with the the
+electron conductivity due to scattering of electrons by impurity ions.
+
+PACS numbers: 52.25.Fi, 95.30.Tg, 97.20.Rp, 97.60.Jd
+
+I. INTRODUCTION
+
+The electron thermal conductivity is an important ki-
+netic property of plasmas in experimental devices, in
+metals and semiconductors and in astrophysical objects.
+It has been studied for a long time and described in text-
+books (see, e.g., Ziman [1], Lifshitz and Pitaevskĭı [2]).
+We will show that some aspects of this problem have to
+be revised.
+Specifically, we will consider the thermal conductiv-
+
+ity of degenerate electrons. It is important in metals,
+semiconductors as well as in degenerate cores of evolved
+stars (giants, supergiants and, most importantly, white
+dwarfs), and in envelopes of neutron stars. It is needed
+to study cooling of white dwarfs (e.g., Prada Moroni and
+Straniero [3]) and nuclear explosions of massive white
+dwarfs as type Ia supernovae (e.g., Baraffe, Heger and
+Woosley [4]). In neutron star envelopes it is required for
+many reasons — for simulating cooling of isolated neu-
+tron stars (see, e.g., Lattimer et al. [5], Gnedin, Yakovlev
+and Potekhin [6], Page, Geppert and Weber [7]); for
+studying heat propagation and thermal relaxation in a
+neutron star envelope in response to the various processes
+of crustal energy release. In particular, these processes
+include pulsar glitches (e.g., Larson and Link [8], and ref-
+erences therein), deep crustal heating of accreting neu-
+tron stars in soft X-ray transients (e.g., Ushomirsky and
+Rutledge [9]), superbursts as powerful nuclear explosions
+at the base of the outer crust of an accreting neutron star
+(e.g., Strohmayer and Bildsten [10]; Page and Cumming
+[11]).
+It is well known, that the electrons give the main con-
+
+tribution into the thermal conductivity of strongly degen-
+erate matter. Their thermal conductivity can be written
+as
+
+κe =
+π2Tk2Bne
+3m∗eνe
+
+, νe = νei + νee. (1)
+
+Here, T is the temperature, kB is the Boltzmann con-
+stant, ne is the number density of electrons, m
+
+∗
+
+e = µ/c
+2,
+
+µ is the electron chemical potential (including the rest-
+mass term), and νe is the total effective electron collision
+
+frequency. The latter frequency is the sum of the par-
+tial collision frequencies νei and νee. In νei we include
+all collisions of electrons mediated by their interactions
+with ions (direct Coulomb scattering of electrons by ions
+in an ion gas or liquid; electron-phonon scattering in an
+ion crystal and electron scattering by impurity ions at
+low temperatures). Evidently, Eq. (1) can be rewritten
+as
+
+1
+
+κe
+=
+
+1
+
+κei
++
+
+1
+
+κee
+, κei =
+
+π2Tk2Bne
+3m∗eνei
+
+,
+
+κee =
+π2Tk2Bne
+3m∗eνee
+
+, (2)
+
+where the partial conductivities κei and κee are deter-
+mined, respectively, by the ei and ee collisions.
+It is widely believed that the dominant contribution
+
+into κe comes from the ei collisions. The associated
+partial conductivity κei has been studied in a number
+of papers (e.g., Potekhin et al. [12], Gnedin et al. [6]
+and references therein). The partial thermal conductiv-
+ity κee owing to the ee collisions was calculated by Lampe
+[13], Flowers and Itoh [14], Urpin and Yakovlev [15], and
+Timmes [16]. These calculations were summarized by
+Potekhin et al. [12]. The main result was that the ee col-
+lisions are mainly negligible, except for a hot low-density
+plasma of light elements (from hydrogen to carbon) with
+the temperature a few times lower than the electron de-
+generacy temperature (in that case the ee collisions did
+affect κe but never dominated as long as the electrons
+were degenerate; see Lampe [13]; Urpin and Yakovlev
+[15]).
+However, all these calculations have neglected an im-
+
+portant effect of the Landau damping of the ee interac-
+tion owing to the exchange of transverse plasmons. In the
+context of transport properties of dense matter this effect
+was studied by Heiselberg and Pethick [17] for degener-
+ate quark plasmas. Similar effects have recently been
+analyzed by Jaikumar, Gale and Page [18] for neutrino
+bremsstrahlung radiation in the ee collisions. Here we
+reconsider κee including the effects of the Landau damp-
+ing and show that κee is actually much more important
+than thought before.
+
+
+
+
+2
+
+II. FORMALISM
+
+We analyze the thermal conductivity κee of strongly
+degenerate electrons under the conditions that the elec-
+trons constitute an almost ideal and uniform Fermi gas
+and collide between themselves and with plasma ions.
+Although the results will be more important for ultrarel-
+ativistic electrons, our consideration will be general and
+valid for both, relativistic and non-relativistic, cases. We
+will use the same standard variational approach with the
+simplest trial non-equilibrium electron distribution func-
+tion as Flowers and Itoh [14]. The calculations are similar
+to those performed by Heiselberg and Pethick [17] for the
+thermal conductivity of quarks; thus we omit the details.
+Following Heiselberg and Pethick [17] we have
+
+νee =
+3~3
+
+8vep2e(kBT )
+3
+
+∫
+
+dp1 dp2 dp
+′
+
+1 dp
+′
+
+2
+
+(2π~)12
+
+×W (12|1′2′) f1f2(1 − f ′1)(1− f ′2)
+× [v1 (ε1 − µ) + v2 (ε2 − µ)− v′1 (ε′1 − µ)
+− v′2 (ε′2 − µ)]
+
+2
+, (3)
+
+where pe = ~ (3π
+2ne)
+
+1/3 and ve = pe/m
+∗
+
+e are, respec-
+tively, the electron Fermi momentum and Fermi veloc-
+ity; the integration is over all allowable ee collisions
+p1p2 → p′1p′2; p is an electron momentum, v its ve-
+locity, ε its energy; primes refer to electrons after a col-
+lision event; f is the electron Fermi-Dirac distribution,
+and W (12|1′2′) is the differential transition probability
+
+W (12|1′2′) = 4 (2π~)6 δ(ε′1 + ε′2 − ε1 − ε2)
+×δ(p′1 + p′2 − p1 − p2) |Mfi|2, (4)
+
+|Mfi|2 being the squared matrix element summed over
+electron spin states. The symmetry factors required to
+avoid double counting of the same initial and final elec-
+tron states are also included into |Mfi|2.
+The multi-dimensional integral (3) is simplified fur-
+
+ther using the standard angular-energy decomposition
+(separating integrations over particle energies and ori-
+entations of their momenta; e.g., Shapiro and Teukol-
+sky [19]). Because the electrons are strongly degener-
+ate, they can participate in thermal conduction only if
+their energies are close to the Fermi level. Accordingly,
+their momenta can be placed at the Fermi surface in an-
+gular integrals whenever possible. Characteristic energy
+transfers ~ω ≡ ε′1 − ε1 in collisions of strongly degener-
+ate particles are small, ~ω . kBT . Momentum transfers
+~q ≡ p′1 − p1 are also small, ~q ≪ pe, owing to a long-
+range nature of the Coulomb interaction. We will use this
+small-momentum-transfer approximation throughout the
+paper. Typical values of ~q are determined by plasma
+screening of the Coulomb interaction.
+The plasma screening was thoroughly analyzed by
+
+Heiselberg and Pethick [17]. These authors studied
+quark-quark interaction through one-gluon exchange in
+the weak-coupling limit which is very similar to the
+Coulomb interaction in an ordinary plasma. The matrix
+
+element for an ee scattering event is Mfi = M
+(1)
+fi +M
+
+(2)
+fi ,
+
+where M
+(1)
+fi and M
+
+(2)
+fi correspond to the channels 1 →
+
+1′; 2 → 2′ and 1 → 2′; 2 → 1′, respectively. For instance,
+
+M
+(1)
+fi ∝
+
+J
+(0)
+1′1J
+
+(0)
+2′2
+
+q2 +Πl
+− Jt1′1 · Jt2′2
+
+q2 − ω2/c2 +Πt
+, (5)
+
+where J
+(ν)
+e′e = (J
+
+(0)
+e′e ,Je′e) = c (ūe′γ
+
+νue) is the transition
+4-current (ν=0, 1, 2, 3), Jte′e is the component of Je′e
+transverse to q, γν is a Dirac matrix, ue is a normal-
+ized electron bispinor (ūeue = 2mec
+
+2), and ūe is a Dirac
+conjugate (see, e.g., Berestetskĭı, Lifshitz and Pitaevskii
+[20]). The longitudinal component of Je′e (parallel to
+q) is related to the time-like (charge density) component
+
+J
+(0)
+e′e via current continuity equation; it is excluded from
+
+Eq. (5), see Ref. [17].
+The polarization functions Πl and Πt in Eq. (5) de-
+
+pend on ω and q and describe the plasma screening of
+the ee interaction through the exchange of longitudinal
+and transverse plasmons, respectively. In the classical
+limit (~q ≪ pe and ~ω ≪ vepe), taking into account
+the polarization produced by degenerate electrons in the
+first-order random phase approximation, one has (e.g.,
+Alexandrov, Bogdankevich and Rukhadze [21])
+
+Πl = q
+2
+0 χl(x), Πt = (q0ve/c)
+
+2 χt(x), (6)
+
+where x = ω/(qve),
+
+χl(x) = 1−
+x
+
+2
+ln
+
+(
+
+x+ 1
+
+x− 1
+
+)
+
+,
+
+χt(x) =
+x2
+
+2
++
+
+x(1− x2)
+4
+
+ln
+
+(
+
+x+ 1
+
+x− 1
+
+)
+
+, (7)
+
+with
+
+~
+2q20 = 4e
+
+2p2e/(π~ve), (8)
+
+q0 being the ordinary Thomas-Fermi electron screening
+wavenumber. Particularly, in the limit of ω → 0 and
+ω/q ≪ ve we have
+
+χl = 1, χt = i πω/(4qve). (9)
+
+According to Eqs. (5) and (6), the plasma screening of
+the ee current interaction via the exchange of transverse
+plasmons (the second term in Eq. (5)) is different from
+the screening of the charge interaction via the exchange of
+longitudinal plasmons (the first term). The difference re-
+sults from the difference of the polarization functions Πt
+and Πl and has been neglected in all previous calculations
+of the electron thermal conductivity (where one has com-
+monly set Πt = Πl = q
+
+2
+0 , and q
+
+2− (ω/c)2+Πt = q2+ q20).
+Naturally, this difference is expected to be small for non-
+relativistic electrons (ve ≪ c), where the transverse cur-
+rent interaction term is small in the matrix element. We
+will see that the difference becomes important for rela-
+tivistic electrons (ve ≈ c).
+
+
+
+3
+
+Let us recall that the functions Πl and Πt have real
+parts which describe plasmon refraction, and imaginary
+parts which describe plasmon absorption. In the ee
+scattering we deal with low-energy virtual plasmons,
+~ω . kBT . As seen from Eq. (9), longitudinal plas-
+mons undergo refraction which results in the Debye-type
+(Thomas-Fermi) screening of the Coulomb interaction,
+with the screening momentum (inverse screening length)
+q0. As for transverse plasmons, they mainly undergo col-
+lisionless absorption (that is the Landau damping) by
+degenerate electrons. Their effect is drastically different
+from the effect of longitudinal plasmons.
+The calculations similar to those in Ref. [17] lead to
+
+the following expressions for the ee collision frequency
+and thermal conductivity,
+
+νee =
+36neα
+
+2
+~
+
+2cI(u, θ)
+
+πm∗ekBT
+, κee =
+
+π3k3BT
+2
+
+108α2~2cI(u, θ)
+.
+
+(10)
+Here, α = e2/~c is the fine structure constant, and
+
+I(u, θ) =
+1
+
+u
+
+∫
+
+∞
+
+0
+
+dw
+w ew
+
+(ew − 1)2
+∫ 1
+
+0
+
+dxx2 (1 − x2)
+
+×
+∫ π
+
+0
+
+dφ
+
+π
+(1− cosφ)
+
+∣
+
+∣
+
+∣
+
+∣
+
+1
+
+1 + (xθ/w)2 χl(x)
+
+− u
+2(1− x2) cosφ
+
+1− u2x2 + u2(xθ/w)2 χt(x)
+
+∣
+
+∣
+
+∣
+
+∣
+
+2
+
+(11)
+
+is a dimensionless function of two variables,
+
+u ≡ ve/c, θ = ~veq0/(kBT ) =
+√
+3Tpe/T, (12)
+
+Tpe = ~ωpe/kB being the electron plasma temperature
+determined by the electron plasma frequency ωpe =
+√
+
+4πe2ne/m∗e. Both components of the matrix element,
+
+M
+(1)
+fi and M
+
+(2)
+fi , give equal contributions into Eq. (11),
+
+and the interference term is negligibly small because of
+the small-momentum-transfer approximation. Further-
+more, w = ~ω/kBT ; φ is the angle between p1t and p2t,
+the components of p1 and p2 transverse to q; and the
+integration over φ is trivial. Equations (10) and (11) are
+natural generalizations of Eqs. (58) and (59) of Heisel-
+berg and Pethick [17] to the case of a degenerate gas
+of particles of arbitrary degree of relativity (in our case
+v/c may be arbitrary while in Ref. [17] v = c). The dif-
+ference of numerical factors in the expressions for κ in
+our Eq. (10) and in Eq. (58) of Ref. [17] (108 versus 24)
+stems from the difference of physical systems under con-
+sideration (an electron gas versus a gas of light quarks
+interacting through gluon exchange).
+
+III. FOUR REGIMES OF
+
+ELECTRON-ELECTRON COLLISIONS
+
+Thus the collision frequency and the thermal conduc-
+tivity (10) are solely determined by the electron number
+
+density and the temperature. Their calculation reduces
+to the calculation of the function I(u, θ) from Eq. (11).
+Clearly, the function can be written as
+
+I = Il + It + Ilt, (13)
+
+where Il is the contribution from the ee interaction via
+the exchange of longitudinal plasmons (the first term in
+the squared modulus); It comes from the interaction via
+the exchange of transverse plasmons (the second term);
+and Ilt is the mixed term.
+The analysis reveals four regimes (I–IV) of ee collisions
+
+in a strongly degenerate electron gas. These regimes are
+summarized in Table I. The regimes I and II are realized
+for non-relativistic electrons, while in the regimes III and
+IV electrons are ultrarelativistic. The regimes I and III
+take place for sufficiently high temperatures T & Tpe, at
+which the Pauli principle does not restrict energy trans-
+fers between colliding electrons (~ω < kBT ; see, e.g.,
+Lampe [13], especially his Fig. 1). The regimes II and
+IV refer to a colder electron gas, where energy transfers
+are essentially limited by the Pauli blocking (e.g., Lampe
+[13] and Flowers and Itoh [14]).
+The analysis of Eq. (11) gives the following asymptotic
+
+values of I in the different regimes.
+In the regime I (where u . 1 and θ . 1)
+
+Il =
+1
+
+u
+
+(
+
+2
+
+15
+ln
+
+1
+
+θ
++ 0.1657
+
+)
+
+,
+
+It = u
+3
+
+(
+
+8
+
+315
+ln
+
+1
+
+θu
++ 0.05067
+
+)
+
+,
+
+Ilt = u
+
+(
+
+8
+
+105
+ln
+
+1
+
+θ
++ 0.1236
+
+)
+
+. (14)
+
+The logarithmic terms in brackets represent Coulomb
+logarithms, while the second terms are the corrections
+calculated using the standard technique [13]. The lead-
+ing contribution comes from Il. It was calculated by
+Lampe [13], with a slightly less accurate correction term
+(1.30× 2/15 ≈ 0.173 from his Eqs. (5.22) and (5.23), in-
+stead of our 0.1657). Retaining this term in the regime
+I, one has I = Il and
+
+κee =
+5π3k3BT
+
+2ve
+72α2~2c2 [ln(1/θ) + 1.242]
+
+. (15)
+
+Table I: Four regimes of thermal conduction of degenerate
+electrons owing to ee collisions.
+
+Electron Main T -dependence
+
+Regime velocity Temperature contribution of κee
+
+I ve ≪ c T & Tpe Il T
+2/ ln(T/Tpe)
+
+II ve ≪ c T ≪ Tpe Il 1/T
+
+III ve ≈ c T & Tpe Il + It + Ilt T
+2/ ln(T/Tpe)
+
+IV ve ≈ c T ≪ Tpe It const
+
+
+
+4
+
+Note that for It the regime I extends to lower tempera-
+tures T ∼ uTpe, than for Il and Ilt, but this circumstance
+does not affect noticeably the thermal conductivity κee
+because It is relatively insignificant in the given regime.
+In the regime III (where u ≈ 1 and θ . 1),
+
+Il = 2It =
+2
+
+15
+ln
+
+1
+
+θ
++ 0.1657,
+
+Ilt =
+2
+
+15
+ln
+
+1
+
+θ
++ 0.1399,
+
+I =
+1
+
+3
+ln
+
+1
+
+θ
++ 0.3884. (16)
+
+Again, the logarithmic terms are Coulomb logarithms
+and the second terms are corrections. In this case, all
+terms (Il, It, and Ilt) give comparable contributions into
+I. The asymptote of I in this regime was obtained
+by Heiselberg and Pethick [17] (their Eq. (60), with a
+slightly less accurate correction factor 0.30 instead of our
+0.3884) in their studies of quark plasma. For an elec-
+tron plasma, the conductivity κee in the regime III was
+calculated by Urpin and Yakovlev [15]. Their result is
+equivalent to Eq. (16) for I but with less accurate cor-
+rection (ln(2)/3 ≈ 0.231 instead of 0.3884) because they
+erroneously used the approximation of static longitudi-
+nal electron screening of the Coulomb interaction in all
+terms (with Πl = Πt = q
+
+2
+0 in Eq. (6)). Employing I from
+
+Eq. (16) in the regime III we obtain
+
+κee =
+π3k3BT
+
+2
+
+36α2~2c [ln(1/θ) + 1.165]
+. (17)
+
+In the regimes II and IV (where θ & 1 and u ≤ 1 is
+arbitrary) we have
+
+Il =
+π5
+
+15uθ3
+, It = 2ζ(3)
+
+u
+
+θ2
+, Ilt =
+
+ξ
+
+θ8/3
+u1/3, (18)
+
+ξ =
+(2π)2/3
+
+3
+Γ
+
+(
+
+14
+
+3
+
+)
+
+ζ
+
+(
+
+11
+
+3
+
+)
+
+≈ 18.52,
+
+where ζ(z) is the Riemann zeta function (with ζ(3) =
+1.202) and Γ(z) is the gamma function. The expres-
+sion for It (with u = 1) was obtained by Heiselberg and
+Pethick [17] for an ultrarelativistic quark plasma.
+The asymptotic expressions (18) are derived from
+
+Eq. (11) with the screening functions χl and χt given
+by Eq. (9). In this approximation the screening of the
+ee interaction via the exchange of longitudinal plasmons
+(the first part of the matrix element in Eq. (5)) is de-
+scribed by q2 + Πl ≈ q2 + q20 , which is equivalent to the
+static Debye-type screening with the screening wavenum-
+ber qscr,l = q0. The screening via the exchange of trans-
+verse plasmons (the second part of the matrix element)
+is more complicated. It is described by the denominator
+term q2 − ω2/c2 +Πt ≈ q2 + iq20πωve/(4qc2) that repre-
+sents the dynamical screening via the Landau damping
+of transverse plasmons, with ~ω ∼ kBT ≪ ve~q (i.e.,
+with low phase velocities ω/q ≪ ve). In this case the ef-
+fective screening wavenumber qscr,t is evidently given by
+q3scr,t ∼ q20ωve/c2 ∼ q20kBTve/(~c2).
+
+Using Eqs. (10) and (13) we can decompose the col-
+lision frequency νee into the same parts as I, νee =
+
+ν
+(l)
+ee + ν
+
+(t)
+ee + ν
+
+(lt)
+ee . One can easily see, that in the regimes
+
+II and IV the partial frequency ν
+(l)
+ee can be estimated as
+
+ν
+(l)
+ee ∼ neα2(kBT )2/(~q3scr,lµ). The collision frequency
+ν
+
+(t)
+ee can be estimated as ν
+
+(t)
+ee ∼ u4 ν(l)ee by replacing
+
+qscr,l → qscr,t. The factor u4 takes into account the re-
+duction of the ee interaction via transverse plasmons in
+
+the nonrelativistic electron gas. The quantity ν
+(lt)
+ee can
+
+be estimated as ν
+(lt)
+ee ∼ u2 ν(l)ee with q3scr,l → q2scr,l qscr,t.
+
+In the regime II, where θ & 1 and u ≪ 1, the exchange
+of longitudinal plasmons dominates, and we have I ≈ Il,
+
+κee =
+5~q30v
+
+4
+e
+
+36π2Tα2c2
+. (19)
+
+This leading part of κee in the regime II was calculated
+by Lampe [13]. Note that the asymptotic expression (18)
+for It at u ≪ 1 is actually valid not at T . Tpe, as the
+expressions for Il and Ilt, but at lower T . uTpe. How-
+ever, this circumstance is relatively unimportant because
+it is Il which dominates in the regime II.
+In the regime IV, where θ & 1 and u ≈ 1, the exchange
+
+of transverse plasmons dominates, with I ≈ It, and
+
+κee =
+π3kBcq
+
+2
+0
+
+216 ζ(3)α2
+. (20)
+
+It is remarkable that in this regime κee becomes temper-
+ature independent. This regime has been discussed in
+detail by Heiselberg and Pethick [17] for quark plasma.
+For the electron plasma, it was considered by Flow-
+ers and Itoh [14] and also by Urpin and Yakovlev [15]
+but both groups erroneously used the approximation of
+static longitudinal screening in all channels (χl = χt =
+1) which strongly underestimates the efficiency of the
+plasma screening of the ee interaction in the ultrarela-
+tivistic electron gas. If that approximation were true,
+
+one would obtain ν
+(l)
+ee = ν
+
+(lt)
+ee = 2ν
+
+(t)
+ee and νee = 2.5ν
+
+(l)
+ee ,
+
+whereas in fact ν
+(l)
+ee ≪ ν(lt)ee ≪ ν(t)ee in the regime IV, and
+
+κee is significantly lower than predicted by the previous
+calculations [14, 15].
+Let us note that the temperature behavior of κee (Ta-
+
+ble I) corresponds to an ordinary Fermi-liquid (where
+κ ∝ 1/T ; e.g., Baym and Pethick [22]) only in the regime
+II. In the regimes I and III the plasma is too warm (al-
+though degenerate) to reach the Fermi-liquid limit, where
+energy transfers between colliding particles are strongly
+restricted by the Pauli principle. In the regime IV the
+plasma is cold but the matrix element of the ee interac-
+tion essentially depends on energy transfers ~ω owing to
+the Landau damping of transverse plasmons which vio-
+lates the Fermi-liquid behavior [17].
+To facilitate applications, we have calculated the func-
+
+tions Il, It and Ilt from Eq. (11) for a dense grid of u and
+θ and fitted the numerical data by analytic functions. We
+
+
+
+5
+
+obtain
+
+Il =
+1
+
+u
+
+(
+
+0.1587− 0.02538
+1 + 0.0435 θ
+
+)
+
+× ln
+(
+
+1 +
+128.56
+
+37.1 θ+ 10.83 θ2 + θ3
+
+)
+
+. (21)
+
+Therefore, Il is inversely proportional to u, with the pro-
+portionality coefficient dependent solely on θ. Further-
+more,
+
+It = u
+3
+
+(
+
+2.404
+
+C
++
+
+C2 − 2.404/C
+1 + 0.1 θ u
+
+)
+
+× ln
+(
+
+1 +
+C
+
+Aθ u+ θ2 u2
+
+)
+
+, (22)
+
+where A = 20 + 450 u3, C = A exp(C1/C2), C1 =
+0.05067 + 0.03216 u2, and C2 = 0.0254 + 0.04127 u
+
+4. Fi-
+nally,
+
+Ilt = u
+
+(
+
+18.52 u2
+
+C
++
+
+C2 − 18.52 u2/C
+1 + 0.1558 θB
+
+)
+
+× ln
+(
+
+1 +
+C
+
+Aθ + 10.83 θ2u2 + (θu)8/3
+
+)
+
+, (23)
+
+where A = 12.2 + 25.2 u3, B = 1 − 0.75 u, C =
+A exp(C1/C2), C1 = 0.123636 + 0.016234 u
+
+2, and C2 =
+0.0762+0.05714u4. These fit expressions reproduce also
+all asymptotic limits mentioned above. The maximum
+fit errors of Il, It, and Ilt are, respectively, 0.2% (at
+u = 0.61 and θ = 3.8), 6.3% (at u = 0.878 and θ ∼ 0.175,
+where the electrons become nondegenerate) and 8.4% (at
+u = 0.19 and θ = 19). The maximum fit error of the to-
+tal function I in Eq. (13) is 2.5% (at u = 0.924 and
+θ = 0.232).
+
+IV. DISCUSSION
+
+Let us discuss the efficiency of ee collisions for thermal
+conduction in a degenerate electron gas. Figure 1 shows
+the temperature-density diagram for a dense matter. For
+certainty, we have adopted the model of cold-catalyzed
+(ground-state) matter. It is composed of electrons and
+ions (atomic nuclei) at densities smaller than the neutron
+drip density ρnd ≈ 4×1011 g cm−3 (the right vertical dot-
+ted line), with an addition of free neutrons at higher den-
+sities ρ. The composition of the cold-catalyzed matter is
+taken from Haensel and Pichon [23] at ρ < ρnd and from
+Negele and Vautherin [24] at higher ρ. Weak first-oder
+phase transitions which accompany changes of ground-
+state nuclides with the growth of ρ are smoothed out as
+described by Kaminker et al. [25]. At ρ . 108 g cm−3
+
+the ground-state matter is composed of iron (56Fe). The
+densities ρ . 109 g cm−3 are appropriate for degenerate
+stellar cores of white dwarfs and evolved stars; the den-
+sities ρ . 1014 are appropriate for envelopes (crusts) of
+neutron stars.
+
+Figure 1: (color online) Temperature-density diagram for
+cold-catalyzed matter. We show the electron degeneracy tem-
+perature TF, the electron plasma temperature Tpe, the melt-
+ing temperature Tm of the ion crystal, and the ion plasma
+temperature Tpi. The left dotted line separates the regions
+of a low-density non-relativistic electron gas and a denser gas
+of ultrarelativistic electrons. The right dotted line indicates
+the neutron drip point. Shaded regions I–IV show the T − ρ
+domains of the different ee collision regimes (Table I).
+
+In Figure 1 we plot the electron degeneracy temper-
+ature TF = (µ − mec2)/kB, the electron plasma tem-
+perature Tpe, the melting temperature of the ion crystal
+Tm ≈ Z2i e2/(175akB), and the ion plasma temperature
+Tpi = ~ωpi/kB (where ωpi =
+
+√
+
+4πZ2i e
+2ni/mi is the ion
+
+plasma frequency, Zie is the ion charge, mi is its mass,
+ni is the ion number density, and a = (4πni/3)
+
+−1/3 is
+the ion-sphere radius). The left vertical dotted line sepa-
+rates the regions of non-relativistic degenerate electrons
+(ve ≪ c, ρ ≪ 106 g cm−3) and ultrarelativistic electrons
+(ve → c, ρ ≫ 106 g cm−3). The shaded regions I–IV
+show the temperature-density domains with the different
+regimes of ee collisions in a degenerate electron gas (see
+Section III, Table I).
+
+In order to explore the importance of the ee collisions
+for thermal conduction let us compare κee with the ther-
+mal conductivity κei owing to ei collisions (Section I).
+The conductivity κei is calculated using the formalism of
+Potekhin et al. [12] and Gnedin et al. [6].
+
+In Figure 2 we plot the temperature dependence of the
+electron thermal conductivity of helium (4He) or carbon
+(12C) plasmas at ρ = 105 g cm−3 (left) or 106 g cm−3
+
+(right). At ρ = 105 g cm−3 the electrons are nonrelativis-
+tic while at ρ = 106 g cm−3 they are mildly relativistic.
+According to Eq. (2), the total electron thermal conduc-
+tivity κe is determined by the partial contributions κee
+
+
+
+6
+
+Figure 2: (color online) Temperature dependence of the elec-
+tron thermal conductivity at ρ = 105 g cm−3 (left) and 106
+
+g cm−3 (right). The dashed line ee shows κee; the dotted line
+ee− l is the same but retaining the contribution of longitudi-
+nal plasmons alone. The dot-and-dashed lines show κei and
+the solid lines show the total (tot, ee+ei) conductivity κe for
+helium and carbon plasmas.
+
+and κei, a minimum partial contribution being most im-
+portant. The total conductivities are shown by the solid
+lines; κei by the dot-and-dashed lines; κee is plotted by
+the dashed lines (the same for the helium and carbon
+plasmas); the dotted lines give κee neglecting the contri-
+bution of transverse plasmons (i.e., by setting I = Il).
+
+For the densities and temperatures displayed in Figure
+2, the ei collisions are mainly more efficient than the ee
+ones, although the contribution of the ee collisions into
+the total thermal conductivity is noticeable. One can
+see that the ei collisions are more important for heavier
+elements (because the Coulomb ei scattering cross sec-
+tion is much higher than the ee scattering cross section
+for high-Z elements; see Lampe [13]). The ee collisions
+would be negligible for the iron plasma if the data for this
+plasma were displayed in Figure 2. The ee collisions are
+more efficient in the helium plasma than in the carbon
+plasma because the helium ions have lower charges. For
+a given chemical composition, κee gives highest contri-
+bution into κe at temperatures T a few times lower than
+Tpe (we have log10 Tpe[K] ≈ 7.86 and 8.32 at ρ = 105 and
+106 g cm−3, respectively). These temperatures separate
+the high-temperature and low-temperature ee collision
+regimes (e.g., the regimes I and II in the non-relativistic
+electron gas, see Table I). For ρ = 105 g cm−3, the elec-
+tron gas is only slightly relativistic. Accordingly, the con-
+tribution of the Landau damping (transverse plasmons)
+into κee is relatively small, and the results of Lampe [13]
+are sufficiently accurate. For higher ρ = 106 g cm−3,
+the contribution of the Landau damping becomes more
+important which invalidates the previous results of Refs.
+[14, 15]. In this case the Landau damping strongly re-
+duces κee which makes the ee collisions much more im-
+portant for thermal conduction than it was thought be-
+fore. For still higher ρ the contribution of κee into κe
+in a plasma of light elements at T ∼ Tpe would be even
+more significant. However, the temperature Tpe would
+
+Figure 3: (color online) Density dependence of the electron
+thermal conductivity at different T (marked by the values of
+log10 T near the curves) in a neutron star crust composed of
+ground-state matter; the vertical dotted line is the neutron
+drip point. Dot-and-dashed lines (ei) show the conductivity
+κei owing to ei collisions at T = 10
+
+7, 108, and 109 K in
+a crystal of atomic nuclei for pure ground-state matter. In
+addition, the lower dot-and-dashed line at T = 107 K shows
+κei which includes the contribution of electron scattering by
+impurity nuclei at T = 107 K (for nimp/ni = 0.05 and |Zimp−
+Zi| = 2). The dashed line is κee; it is almost independent of
+
+T . The dotted line is the partial conductivity κ
+(l)
+ee mediated
+
+by longitudinal plasmons alone at T = 108 K; it scales as
+T−1. The solid lines show the total electron conductivity κe
+at T = 107 K for the matter without and with impurities. If
+T & 108 K the effect of impurities is weak and κe ≈ κei.
+
+become so high that light elements would start burning
+in thermonuclear reactions. Therefore, ee collisions can
+noticeably decrease the electron thermal conductivity at
+densities and temperatures important for nuclear burn-
+ing of light elements (for instance, in the vicinity of the
+carbon ignition curve). This should be taken into ac-
+count in simulations of nuclear evolution of stars (e.g.,
+carbon ignition in white dwarfs [4]).
+
+Figure 3 shows the density dependence of the elec-
+tron thermal conductivity in the density range from
+∼ 2.5 × 109 g cm−3 to 1014 g cm−3 for the three val-
+ues of the temperature T = 107, 108, and 109 K. We
+employ the same model of ground-state matter as in Fig-
+ure 1. The displayed density range is appropriate to a
+crust of a neutron star. The vertical dotted line is the
+neutron drip point which separates the crust into the
+outer and inner parts. The adopted values of T and ρ
+refer to the regime IV of the ee collisions, where the elec-
+tron gas is ultrarelativistic, T ≪ Tpe, and the Landau
+damping dominates. The conductivity κee (the dashed
+line) is well approximated by the temperature indepen-
+
+
+
+7
+
+dent conductivity (20) governed by the Landau damping;
+κee slightly deviates from Eq. (20) only at lowest ρ for
+T = 109 in Figure 3, where T is still insufficiently lower
+than Tpe (see Figure 1). Retaining the longitudinal con-
+tribution into κee (I = Il) and setting T = 10
+
+8 K, we
+would get the dotted curve in Fig. 3. It goes much higher
+than the dashed curve indicating that this longitudinal
+contribution is really insignificant.
+
+For comparison, the dot-and-dashed lines in Figure 3
+give the thermal conductivity κei (mostly from Figure 4
+of Ref. [6]) for the same values of T , and the solid lines
+give the total conductivity κe. For T = 10
+
+8 and 109,
+the effects of possible impurities in dense matter (atomic
+nuclei with charge numbers Zimp different from charge
+numbers Zi of ground-state nuclei) are expected to be
+small (e.g., Gnedin et al. [6]). At T = 107 K, the effects
+of impurities can be substantial. For this T in Figure
+3 we present κei and κe for pure ground-state matter
+and also for the matter which contains impurities with
+|Zimp − Zi| = 2 and with the fractional number of im-
+purity nuclei of nimp/ni = 0.05. The impurities increase
+the ei collision rate and decrease the conductivities κei
+and κe.
+
+As seen from Figure 3, κei is more important than κee
+at all displayed densities for T = 108 and 109 K. In these
+cases κe ≈ κei and we do not show κe to simplify the
+figure. However, κee dominates in the pure ground-state
+matter for T = 107 K at ρ & 1012 g cm−3 (in the inner
+crust of a neutron star). This dominance is fully pro-
+duced by the Landau damping of transverse plasmons in
+the ee-collisions. For ρ & 1013 g cm−3 in this case we
+have κe ≈ κee. For an impure cold-catalyzed matter κei
+remains important for all densities at T = 107 K, but
+κee is comparable to κei in the inner neutron star crust.
+Note that the values of κei in Figure 3 take into account,
+in an approximate manner, the freezing of Umklapp pro-
+cesses in electron-phonon scattering at low temperatures
+(see, e.g., Ref. [6]). For T & 108 K the freezing is unim-
+portant, but at T ∼ 107 K it enhances κei. A more rig-
+orous treatment of this freezing can partly remove this
+enhancement (A. I. Chugunov, private communication),
+which can somewhat decrease κei and reduce the impor-
+tance of κee.
+
+Therefore, a correct treatment of ee collisions can con-
+siderably reduce the electron thermal conductivity in a
+cold neutron star crust, with T ∼ 107 K. This can in-
+crease the time of heat diffusion from the inner crust to
+the surface [9]. In particular, the effect can be impor-
+tant for the propagation of thermal waves produced by
+pulsar glitches and for the emergence of these waves on
+the pulsar surface. The emergence can be, in principle,
+observed and give valuable information on the nature of
+pulsar glitches [8].
+
+While calculating κee we have taken into account only
+the electron contribution into the polarization functions
+Πl and Πt in Eq. (6) and neglected the ion contribution.
+As shown by Lampe [13] this is a good approximation
+at high temperatures T & Z2e2/(akB) at which the ions
+
+are weakly coupled and constitute a Boltzmann gas. The
+calculation of the ion polarization functions at lower T
+(in the regime of strong ion coupling, in an ion liquid
+or solid) is a complicated problem whose detailed solu-
+tion is still absent. We have also neglected the effects of
+strong magnetic fields which can greatly modify electron
+heat transport in strongly magnetized neutron star en-
+velopes. These effects are numerous (e.g., Yakovlev and
+Kaminker [26]) and are subdivided into classical (owing
+to rapid electron Larmor rotation) and quantum ones
+(owing to the Landau quantization of electron motion in
+a magnetic field). In principle, a proper treatment of ee
+collisions in a strong magnetic field can be performed in
+the same framework of the dynamical plasma screening as
+used above. However, the problem becomes much more
+complicated because the electron polarization tensor in a
+magnetic field is anisotropic (depends on the relative ori-
+entations of the wavevector q and the magnetic field) and
+cannot be generally decomposed into purely longitudinal
+and transverse parts [21]. The effects of ion polarization
+and strong magnetic fields are outside the scope of the
+present paper.
+
+V. CONCLUSIONS
+
+We have reconsidered the electron thermal conductiv-
+ity κee of degenerate electrons produced owing to the
+ee collisions taking into account the Landau damping
+due to the exchange of transverse plasmons (following
+the calculations of kinetic properties of quark plasma by
+Heiselberg and Pethick [17]). The Landau damping has
+been neglected in all previous calculations of κee. We
+have analyzed the four regimes of the ee collisions in the
+degenerate electron gas (Section III, Table I) and ob-
+tained analytic expressions for κee which accurately ap-
+proximate the results of numerical calculations of κee in
+wide ranges of the temperature and density of the matter.
+These results can be applied to study thermal conduction
+of degenerate electrons in metals, semiconductors, in de-
+generate cores of evolved stars and white dwarfs, and in
+envelopes of neutron stars.
+Our main conclusions are the following.
+(1) The Landau damping strongly modifies κee in a
+
+relativistic degenerate electron gas, at densities ρ &
+106 g cm−3, but it is also quite noticeable at lower ρ
+(for instance, at ρ = 105 g cm−3, see Figure 2). The Lan-
+dau damping increases the ee collision rate and decreases
+κee, increasing the contribution of the ee collisions into
+the total electron thermal conductivity κe.
+(2) The most dramatic effect of the Landau damping
+
+on κee takes place at ρ ≫ 106 g cm−3 for temperatures
+T much below the electron plasma temperature Tpe (the
+regime IV, Table I). In this case κee shows a non-Fermi-
+liquid behavior; it becomes temperature independent and
+is described by the asymptotic expression (20).
+(3) The conductivity κee becomes comparable to
+
+the electron thermal conductivity κei provided by the
+
+
+
+8
+
+electron-ion collisions (and gives thus a noticeable contri-
+bution into the total conductivity κe) in a warm plasma
+of light (low-Z) ions at temperatures T a few times lower
+than Tpe (Figure 2). These conditions are typical for
+degenerate cores of white dwarfs and giant stars where
+thermonuclear burning of light elements can occur (par-
+ticularly, in the vicinity of the carbon ignition curve).
+(4) The conductivity κee dominates over κei and de-
+
+termines the total electron thermal conductivity κe of
+the dense pure cold-catalyzed matter at T ∼ 107 K and
+ρ & 1012 g cm−3 (in the inner crust of a cold neutron
+star, Figure 3). At these T and ρ the conductivity κee
+is important even for impure cold-catalyzed matter. It
+can affect the propagation of thermal waves, excited in
+the inner neutron star crust during pulsar glitches, to the
+pulsar surface.
+The electron conductivity κe operates also in neutron
+
+star cores, at ρ & 1.5 × 1014 g cm−3. This conductiv-
+
+ity should also be reconsidered taking into account the
+Landau damping. Our present results cannot be directly
+applied to this case because in the cores the electrons col-
+lide efficiently at least with degenerate electrons, muons,
+and protons, and these collisions deserve a special study.
+We intend to analyze them in a subsequent publication.
+
+Acknowledgments
+
+We are grateful to A. I. Chugunov and A. Y. Potekhin
+for useful discussions. This work was partly supported by
+the Dynasty Foundation, by the Russian Foundation for
+Basic Research (grants 05-02-16245, 05-02-22003), and
+by the Federal Agency for Science and Innovations (grant
+NSh 9879.2006.2).
+
+[1] J. M. Ziman, Electrons and Phonons (Oxford Univ.
+Press, Oxford, 1960).
+
+[2] E. M. Lifshitz and L. P. Pitaevskĭı, Physical Kinetics
+(Butterworth-Heinemann, 1981).
+
+[3] P. G. Prada Moroni and O. Straniero, Astrophys. J. 581,
+585 (2002).
+
+[4] I. Baraffe, A. Heger, and S. E. Woosley, Astrophys. J.
+615, 378 (2004).
+
+[5] J. M. Lattimer, K. A. Van Riper, M. Prakash, and M.
+Prakash, Astrophys. J. 425, 802 (1994).
+
+[6] O. Y. Gnedin, D. G. Yakovlev, and A. Y. Potekhin, Mon.
+Not. R. Astron. Soc. 324, 725 (2001).
+
+[7] D. Page, U. Geppert, and F. Weber, Nucl. Phys. A. (to
+be published); astro-ph/0508056.
+
+[8] M. B. Larson and B. Link, Mon. Not. R. Astron. Soc.
+333, 613 (2002).
+
+[9] G. Ushomirsky and R. E. Rutledge, Mon. Not. R. Astron.
+Soc. 325, 1157 (2001).
+
+[10] T. E. Strohmayer and L. Bildsten, in Compact Stellar
+X-Ray Sources, edited by W. H. G. Lewin and M. van
+der Klis (Cambridge Univ. Press, Cambridge, in press);
+astro-ph/0301544.
+
+[11] D. Page and A. Cumming, Astrophys. J. 635, 157 (2005).
+[12] A. Y. Potekhin, D. A. Baiko, P. Haensel, and D. G.
+
+Yakovlev, Astron. Astrophys. 346, 345 (1999).
+[13] M. Lampe, Phys. Rev. 170, 306 (1968).
+[14] E. Flowers and N. Itoh, Astrophys. J. 206, 218 (1976).
+[15] V. A. Urpin and D. G. Yakovlev, Sov. Astron. 24, 126
+
+(1980).
+
+[16] F. X. Timmes, Astrophys. J. 390, 107 (1992).
+[17] H. Heiselberg and C. J. Pethick, Phys. Rev. D 48, 2916
+
+(1993).
+[18] P. Jaikumar, C. Gale, and D. Page, Phys. Rev. D 72,
+
+123004 (2005).
+[19] S. L. Shapiro and S. A. Teukolsky, Black Holes,
+
+White Dwarfs, and Neutron Stars (New York, Wiley-
+Interscience, 1983).
+
+[20] V. B. Berestetskĭı, E. M. Lifshitz, and L. P.
+Pitaevskii, Quantum Electrodynamics (Butterworth-
+Heinemann, Oxford, 1982).
+
+[21] A. F. Alexandrov, L. S. Bogdankevich, and A.
+A. Rukhadze, Principles of Plasma Electrodynamics
+(Springer-Verlag, Berlin, Heidelberg, New York, Tokyo,
+1984), Springer Series in Electrophysics, Vol. 9.
+
+[22] G. Baym and C. Pethick, Landau Fermi-Liquid Theory.
+Concept and Applications (Wiley Interscience, New York,
+1991).
+
+[23] P. Haensel and B. Pichon, Astron. Astrophys. 283, 313
+(1994).
+
+[24] J. W. Negele and D. Vautherin, Nucl. Phys. A 207, 298
+(1973).
+
+[25] A. D. Kaminker, C. J. Pethick, A. Y. Potekhin, V. Thors-
+son, and D. G. Yakovlev, Astron. Astrophys. 343, 1009
+(1999).
+
+[26] A. D. Kaminker and D. G. Yakovlev, in Equation of State
+in Astrophysics, edited by G. Chabrier and E. Schatzman
+(Cambridge University Press, Cambridge, 1994), p. 214.
+
+
+
+

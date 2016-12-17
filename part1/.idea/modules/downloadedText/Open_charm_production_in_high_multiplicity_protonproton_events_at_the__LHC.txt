@@ -1,0 +1,473 @@
+
+Open charm production in high multiplicity
+
+proton-proton events at the LHC
+
+E. G. Ferreiro and C. Pajares
+
+Departamento de F́ısica de Part́ıculas and IGFAE, Universidad de Santiago de Compostela,
+
+15782 Santiago de Compostela, Spain
+
+Abstract
+
+We present the dependence of D production on the charged particle multiplicity in proton-proton col-
+
+lisions at LHC energies. We show that, in a framework of source coherence, the open charm production
+
+exhibits a growth with the multiplicity which is stronger than linear in the high density domain. This
+
+departure from linearity was previously observed in the J/ψ inclusive data from proton-proton collisions at
+
+7 TeV and was successfully described in our approach. Our assumption, the existence of coherence effects
+
+present in proton-proton collisions at high energy, applies for high multiplicity proton-proton collisions in
+
+the central rapidity region and should affect any hard observable.
+
+1 Introduction
+
+The available data recoiled at RHIC [1, 2, 3, 4] and LHC [5, 6, 7] on heavy-ion collisions have already shown
+
+several features which indicate the formation of a high-density partonic medium. In which concerns pp collisions
+
+at LHC energies, the energy densities achieved in the high multiplicity events are similar to the ones reached
+
+in CuCu central collisions or AuAu peripheral collisions at
+√
+sNN = 200 GeV. It is then mandatory to look for
+
+observables which could reflect the formation of a high density medium, similar to the one already observed in
+
+heavy-ion collisions.
+
+One of those signals, already reported by the ALICE collaboration [8, 9], was the rise of central rapidity J/ψ
+
+inclusive production in the highest multiplicity events obtained in pp collisions at 7 TeV, that was successfully
+
+reproduced in the source interaction framework [10].
+
+1
+
+ar
+X
+
+iv
+:1
+
+50
+1.
+
+03
+38
+
+1v
+1 
+
+ [
+he
+
+p-
+ph
+
+] 
+ 1
+
+4 
+Ja
+
+n 
+20
+
+15
+
+
+
+2
+
+Here we address to the production of open charm mesons. We will restrict ourselves to the study of the
+
+lightest ones, D0, D+ and D−, and we will comment on the other states.
+
+2 The model
+
+Let us recall the essential ingredients of our model. Our main assumption consists on considering high-energy
+
+hadronic collisions as driven by the exchanged of colour sources –strings– between the projectile and the target.
+
+Those sources have finite spatial extension and thus they can interact, reducing their effective number.
+
+Note that one can distinguish between soft and hard sources, depending on their transverse mass, i.e. their
+
+quark composition and their transverse momentum. Note also that their transverse size is determined by this
+
+transverse mass, since rT ∝ 1/mT . The softness of the source maximizes its possibility of interaction, since
+its transverse size will be larger.
+
+The main consequence is that the bulk properties –as the total multiplicities– that are driven by the soft
+
+sources are going to be affected by their initial interactions, in particular reducing the total number of produced
+
+particles in similar way as shadowing or saturation do. On the other hand, the hard events are less affected by
+
+source interaction and can be taken as proportional to the number of collisions.
+
+Specifically, in our model each parton-parton collision is reflected as the number of initially produced sources
+
+Ns. The hard events in pp collisions are mainly controlled by this number, i.e. the number of collisions. On the
+
+contrary, the multiplicity distribution dN/dη –mainly soft– is not proportional to the number of collisions, but
+
+mostly to the number of participants. This reduction can be considered as a consequence of shadowing in the
+
+case of pA or AA collisions [11], parton saturation [12] or, as it is the case here, string interactions [13]. As a
+
+consequence, the charged particle multiplicities can suffer a reduction due to the interaction among the sources
+
+and behave roughly as
+√
+Ns. The above assumptions are similar to the fact that the shadowing effects decrease
+
+with the hardness of the probe.
+
+In particular, in our approach the multiplicity distribution is given by
+
+dN
+
+dη
+= F (ρ)Nsµ1 (1)
+
+where µ1 corresponds to the multiplicity of a single source in the rapidity range of interest, Ns is the number
+
+of produced sources and F (ρ) corresponds to the damping factor induced by the source interaction,
+
+F (ρ) =
+
+√
+1− e−ρ
+
+ρ
+. (2)
+
+ρ corresponds to the source density, ρ = Nsσ0σ , being σ0 the transverse size of one source and σ the transverse
+
+area of the collision.
+
+In our previous paper [10] we have assumed the proportionality between the number of produced J/ψ and
+
+the number of collisions,
+nJ/ψ
+
+< nJ/ψ >
+=
+
+Ns
+< Ns >
+
+, (3)
+
+
+
+3
+
+obtaining the relation between the charged particle multiplicity and the number of produced J/ψ,
+
+dN
+dη
+
+< dNdη >
+=
+
+(
+nJ/ψ
+
+< nJ/ψ >
+
+)1/2 1− e− nJ/ψ<nJ/ψ><ρ>
+1− e−<ρ>
+
+1/2 where < ρ >=< Ns > σ0
+σ
+. (4)
+
+The above equation leads to the following behaviour for the J/ψ production: At low multiplicities, where the
+
+number of sources < Ns > is small, one obtains the linear dependence
+
+nJ/ψ
+
+< nJ/ψ >
+=
+
+dN
+dη
+
+< dNdη >
+, (5)
+
+while, at high multiplicities,
+
+nJ/ψ
+
+< nJ/ψ >
+=< ρ >
+
+(
+dN
+dη
+
+< dNdη >
+
+)2
+, (6)
+
+where the linear dependence changes to an squared dependence when high multiplicity events are at play. This
+
+can be parametrised by the following expression [10]:
+
+nJ/ψ
+
+< nJ/ψ >
+= (1− < ρ >)
+
+(
+dN
+dη
+
+< dNdη >
+
+)
++ < ρ >
+
+(
+dN
+dη
+
+< dNdη >
+
+)2
+, (7)
+
+which agrees extremely well the available experimental data [8, 9].
+
+Let us now face the problem of open charm production. We have considered that, in first approximation, D
+
+production is driven both by light and hard sources, due to their mixed composition. Both contributions are
+
+to be taken at 50%. The soft contribution will follow the linear behaviour with the multiplicity, while the hard
+
+one will behave as the J/ψ does, according to eq. (7),
+
+nD
+< nD >
+
+= 0.5
+
+(
+dN
+dη
+
+< dNdη >
+
+)
++ 0.5
+
+(1− < ρ >)( dNdη
+< dNdη >
+
+)
++ < ρ >
+
+(
+dN
+dη
+
+< dNdη >
+
+)2 . (8)
+Table 1: Relative charged-particle pseudorapidity densities, mean source densities, and relative J/ψ and D
+
+yields according to eqs. (7,8).
+
+dN
+dη
+
+< dNdη >
+< ρ >
+
+nJ/ψ
+<nJ/ψ>
+
+nD
+<nD>
+
+1 0.09 1.00 1.00
+
+2 0.16 2.32 2.16
+
+3 0.23 4.37 3.69
+
+4 0.29 7.46 5.73
+
+5 0.34 11.88 8.44
+
+6 0.40 17.88 11.94
+
+7 0.46 26.15 16.58
+
+8 0.51 36.73 22.36
+
+9 0.58 50.69 29.84
+
+
+
+4
+
+In order to compare with the available pp experimental data, we need to compute the dependence of the
+
+source densities with the multiplicities. In Table 1, we show our values for the available experimental beams
+
+together with our results for J/ψ and D production according to eqs. (7,8). Note that the D meson results
+
+shown in the above table corresponds to the lightest ones, i.e. D0, D+, D−, and are to be taken as pT integrated,
+
+i.e. pT > 0 GeV.
+
+The experimental results on open charm production are presented for different species and different pT cuts.
+
+In order to compare with experimental data [14], we have taken the lowest pT beam, i.e. 2 < pT < 4 GeV for
+
+D0 and D+ production. In Fig. 1, we show our results compared to experimental ALICE data [14] for D meson
+
+production in pp collisions at 7 TeV in the central rapidity range.
+
+Figure 1: Our results on D meson production (red line) for pp collisions in the central rapidity range, together
+
+with the experimental data from the ALICE Collaboration [14]. The linear behaviour (black line) is also plotted.
+
+We observe a good agreement between our result and the experimental data for D0 and D+ production.
+
+Note that, in which concerns D∗ production, its departure from linearity is to be more important, due to its
+
+higher mass. Moreover, we can advance that the departure from linearity should also be more important for
+
+
+
+5
+
+the high pT beams when compare to the low pT beams.
+
+In Fig. 2, our results on D and J/ψ are plotted and compared to experimental data.
+
+Figure 2: Our results on D meson production in the central rapidity range (red line) and on J/ψ production
+
+in the central (continuous blue line) and in the forward (dashed blue line) rapidity range for pp collisions at
+
+7 TeV, together with the experimental data from the ALICE Collaboration [14]. The linear behaviour (black
+
+line) is also plotted.
+
+Note that the J/ψ production obeys a quadratic dependence with the multiplicity in the central rapidity
+
+region, while it is closer to linear dependence in the forward rapidity one [10].
+
+3 Conclusions
+
+In conclusion, we have reproduced here the rise of D and J/ψ production for the highest multiplicity events at
+
+central rapidity observed by the ALICE collaboration in pp collisions. This increase may be a consequence of
+
+the formation of a high density medium in pp collisions at LHC energies.
+
+
+
+6
+
+At these high densities, the coherence among the sources can lead to a reduction of their effective number
+
+–initially proportional to the number of collisions. This reduction would mainly affect the soft observables, as
+
+the total multiplicity, while the hard production would remain unaltered. In this case, the linear dependence
+
+of D and J/ψ production on the charged particle multiplicity obtained for low multiplicities –where the parton
+
+densities are smaller–, changes to an squared dependence when high multiplicity events are at play. Moreover,
+
+this departure from linearity should increase with the hardness of the studied observable. This means that,
+
+for the same pT and rapidity range, the J/ψ production will be higher than the D
+0 production for the high
+
+multiplicity events. For the same particle specie there should be also an ordering in pT , i.e. the highest pT
+
+particles should show a most important departure of linearity.
+
+Note that any additional J/ψ suppression –due to the possibility of string or source percolation–, which could
+
+lead to a corresponding increase of the D production, cannot be at play at these energies and multiplicities, since
+
+the density of strings is well below the threshold for percolation, η > 1. This threshold can ben nevertheless
+
+achieved in pp collisions at higher energies, i.e. 14 TeV, for the high multiplicity events,
+dN
+dη
+
+< dNdη >
+> 8 and also in
+
+pPb collisions at 5.02 TeV. In the latest case, the application of our model is not completely straightforward,
+
+since other cold nuclear matter effects can be at play here.
+
+Acknowledgements.— We are grateful to Zaida Conesa del Valle and Sarah Porteboeuf-Houssais for useful
+
+discussions. This work is supported by Ministerio de Economia y Competitividad of Spain and FEDER.
+
+References
+
+[1] B. B. Back et al., Nucl. Phys. A 757, 28 (2005).
+
+[2] K. Adcox et al. [PHENIX Collaboration], Nucl. Phys. A 757, 184 (2005).
+
+[3] J. Adams et al. [STAR Collaboration], Nucl. Phys. A 757, 102 (2005).
+
+[4] I. Arsene et al. [BRAHMS Collaboration], Nucl. Phys. A 757, 1 (2005).
+
+[5] J. Schukraft, J. Phys. G 38, 124003 (2011).
+
+[6] P. Steinberg, J. Phys. G 38, 124004 (2011).
+
+[7] B. Wyslouch [CMS Collaboration], J. Phys. G 38, 124005 (2011).
+
+[8] B. Abelev et al. [ALICE Collaboration], Phys. Lett. B 712, 165 (2012).
+
+[9] S. Porteboeuf-Houssais [for the ALICE Collaboration], arXiv:1202.5864 [hep-ex].
+
+[10] E. G. Ferreiro and C. Pajares, Phys. Rev. C 86, 034903 (2012).
+
+[11] E. G. Ferreiro, F. Fleuret, J. P. Lansberg and A. Rakotozafindrabe, Phys. Lett. B 680, 50 (2009).
+
+[12] D. Kharzeev, E. Levin, M. Nardi and K. Tuchin, Phys. Rev. Lett. 102, 152301 (2009).
+
+[13] N. Armesto, M. A. Braun, E. G. Ferreiro and C. Pajares, Phys. Rev. Lett. 77, 3736 (1996).
+
+
+
+
+7
+
+[14] Zaida Conesa del Valle for the ALICE Collaboration, MPI@LHC 2012, Workshop on Multi-Parton Inter-
+
+actions at the LHC, 3-7 December 2012, CERN; Sarah Porteboeuf-Houssais for the ALICE Collaboration,
+
+52th International Winter Meeting on Nuclear Physics, 27-31 January 2014, Bormio, Italy; Zaida Conesa
+
+del Valle for the ALICE Collaboration, 37th International Conference on High Energy Physics, 2-9 July
+
+2014, Valencia, Spain.
+
+
+	1 Introduction
+	2 The model
+	3 Conclusions
+

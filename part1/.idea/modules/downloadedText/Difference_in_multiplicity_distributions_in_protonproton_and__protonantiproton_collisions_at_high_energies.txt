@@ -1,0 +1,766 @@
+
+ar
+X
+
+iv
+:0
+
+91
+1.
+
+48
+47
+
+v1
+  [
+
+he
+p-
+
+ph
+] 
+
+ 2
+5 
+
+N
+ov
+
+ 2
+00
+
+9
+
+Difference in multiplicity distributions in proton-proton and proton-antiproton
+collisions at high energies
+
+Radchenko N.V.∗
+
+Novgorod State University, Novgorog-the-Great, Russia†
+
+Secondary charged hadrons multiplicity distributions in proton-proton and proton-
+antiproton collisions differ on principle. There are three types of inelastic processes in
+proton-antiproton scattering. The first type is production of secondary hadrons shower
+at gluon string decay. The second type is shower produced from two quark strings decay, the
+third type is shower produced from three quark strings decay. At the same time there are
+only two types of inelastic processes for proton-proton scattering - gluon string shower and
+two quark strings shower. Theoretical description of multiplicity distributions is obtained
+for proton-proton collisions at energies from 44.5 GeV to 200 GeV and for proton-antiproton
+collisions at energies from 200 GeV to 1800 GeV. The difference between proton-proton
+and proton-antiproton multiplicity distributions is discussed. The predictions of multiplicity
+distribution and mean multiplicity at LHC energy are given.
+
+PACS numbers: 12.40Nn, 13.85.Hd, 13.85Lg
+Keywords: multiplicity distribution, proton, antiproton, quark string, gluon string
+
+I. INTRODUCTION
+
+Multiplicity distributions and total cross
+sections are the main characteristics of hadrons
+multiple production at high energies. Analy-
+sis of secondary hadrons multiplicity distribu-
+tions is very important for verification of different
+phenomenological approaches and models. Ex-
+perimental data on multiplicity distribution are
+highly informative and can be measured with suf-
+ficient accuracy which gives significant advantage
+when comparing with theoretical calculations.
+
+II. LOW CONSTITUENTS NUMBER
+
+MODEL AND TOTAL CROSS SECTIONS
+
+We are based on the Low Constituents
+Number Model (LCNM) which was proposed by
+V.A. Abramovsky and O.V. Kancheli in 1980 [1].
+Three steps are concretized in this model: prepa-
+ration of colliding hadrons initial state; interac-
+tion; moving apart of reaction products.
+
+1) On the first step before the collision there
+is small number of constituents in hadrons. They
+are valence quarks and few gluons which fill in
+the whole spectrum in rapidity space.
+
+∗Electronic address: nvrad@mail.ru
+†Author is very grateful to Organizing Committee for fi-
+nancial support and hospitality
+
+2) On the second step the hadrons interac-
+tion is carried out by gluon exchange between the
+valence quarks and initial gluons and the hadrons
+gain the color charge.
+
+3) On the third step after interaction the col-
+ored hadrons move apart and when the distance
+between them becomes larger than the confine-
+ment radius, the lines of color electric field gather
+into the string. This string breaks out into sec-
+ondary hadrons.
+
+In the model total cross sections of proton-
+proton and proton-antiproton collisions are de-
+scribed by the following formulae
+
+σ
+p(p̄)p
+tot = 63.52s
+
+−0.358 ∓ 35.43s−0.56 +
++σ0 + σ1 ln s+ σ2(ln s)
+
+2 +
+
++σ3(ln s)
+3 + [higher powers of ln s]. (1)
+
+where first two terms present non vacuum contri-
+butions and were taken from the paper by Cudell
+et. al. [2]. There are also constant term and
+terms proportional to powers of logarithm of full
+energy. Constant term corresponds to gluon ex-
+change between initial states containing only va-
+lence quarks. Powers of logarithm are equal to
+number of gluons in initial states of hadrons.
+
+The fitting of formulae (1) to total cross sec-
+tions of pp and pp̄ collisions (Fig.1, data were
+taken from [3]) showed that there are only two
+gluons in initial state. Contribution of the third
+gluon is about 1 mb at energy 14 TeV and thus
+
+
+
+
+
+Radchenko N.V.
+
+ln(s)
+6 8 10 12 14 16 18 20
+
+, m
+b
+
+to
+t
+
+σ
+
+40
+
+60
+
+80
+
+100
+
+120
+
+140
+
+160
+/ndf = 125/1132χ
+
+p p
+
+pp 
+
+FIG. 1: Fitting of total cross sections of pp and pp̄
+collisions in LCNM
+
+is negligible. The values of parameters are σ0 =
+20.08 ± 0.42, σ1 = 1.14 ± 0.13, σ2 = 0.16 ± 0.01.
+
+Having limited number of gluons we can de-
+scribe the types of inelastic processes in proton-
+proton and proton-antiproton interactions.
+
+III. THREE TYPES OF INELASTIC
+
+PROCESSES
+
+From the obtained result of presence of only
+two gluons in initial state it follows existence of
+three types of inelastic processes in pp and pp̄
+collisions.
+
+There are three types of inelastic processes
+in proton-antiproton interaction. The first type is
+production of hadrons shower from decay of gluon
+string, it corresponds to constant contribution to
+total cross sections (Fig. 2a). The second type is
+shower produced from decay of two quark strings,
+it corresponds to contributions from one and two
+gluons (Fig. 2b). The third type is shower pro-
+duced from decay of three quark strings, it cor-
+responds to part of contribution from two gluons
+(Fig. 2c). In this case quark strings are produced
+between every quark of proton and antiquark of
+antiproton.
+
+At the same time there are only two types of
+inelastic processes in proton-proton interaction,
+they are shower from gluon string (Fig. 2d) and
+shower from two quark strings (Fig. 2e,f). There
+are no three quark strings in pp interaction be-
+
+FIG. 2: Types of inelastic processes for pp̄ (a – c)
+and pp interaction (d – f). Solid lines correspond to
+quarks and antiquarks, wavy lines to gluons, spirals to
+strings. Interaction in final state is marked by dashed
+block.
+
+FIG. 3: Hadrons production in gluon string. a) Am-
+plitude of transition of two octet states produced after
+gluon exchange to hadrons, dashed lines show direc-
+tion of octet states. b) One of possible diagrams of
+Fig. 2a; dashed block shows one of possible diagram
+of amplitude of transition of two octet states of Fig. 2a
+to hadrons
+
+cause in this case strings can be formed between
+quark of one proton and diquark of another pro-
+ton.
+
+IV. MULTIPLICITY DISTRIBUTIONS
+
+FOR DIFFERENT PROCESSES
+
+We suppose that hadrons multiplicity dis-
+tribution in gluon string is normal distribution
+(Fig. 3).
+
+Gluon pairs are sequentially produced in fi-
+nal state marked by dashed block. This produc-
+tion takes place until energy of pairs approaches
+hadrons mass. Then gluon pairs decays at several
+observable hadrons.
+
+Every diagram of this type gives certain
+number of secondary hadrons. Number of such
+diagrams is considerably large. There is no sup-
+
+2
+
+
+
+Difference in multiplicity distributions in pp and pp̄ at high energies
+
+ln(s)
+8 9 10 11 12 13 14 15
+
+, m
+b
+
+va
+c
+
+n
+sd
+
+σ
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+/ndf = 14/82χ
+
+ISR
+
+UA5
+
+UA4
+
+CDF
+
+E710
+
+FIG. 4: Vacuum contributions to non single diffraction
+cross sections of pp and pp̄ collisions
+
+pression on energy because exchange is of vector
+type. Contributions from this diagrams have the
+same order of magnitude. So secondary hadrons
+multiplicity as random variable has to obey nor-
+mal distribution because of central limit theorem
+of probability theory. Thus multiplicity distribu-
+tion in gluon string is normal distribution.
+
+We suppose that hadrons multiplicity distri-
+bution in quark string is negative binomial distri-
+bution (NBD). This is in good agreement with
+data on e+e− annihilation at low energies where
+one quark string is produced with assurance. So
+multiplicity distribution in two quark strings is
+convolution of two NBD, namely NBD with dou-
+ble parameters, and in three quark strings it is
+convolution of three NBD, namely NBD with
+triple parameters.
+
+Experimental charged multiplicities are nor-
+malized on non single diffraction cross sections,
+σnsd = σtot − σel − σsd. Pomeron contributions
+are the same as for total cross sections
+
+σnsdvac = σ
+nsd
+0 (1 + δ
+
+nsd
+1 ln s+ δ
+
+nsd
+2 ln
+
+2 s), (2)
+
+here we divided formulae by constant term for
+convenience.
+
+The fitting of vacuum contributions to non
+single diffraction cross sections is shown on Fig. 4,
+data were taken from [4, 5]. The value of χ2 to
+number of degrees of freedom 14 to 8 is caused
+by difference between data of UA4 and UA5 col-
+laborations.
+
+The obtained coefficients δnsd1 = 0.075 ±
+0.011 and δnsd2 = 0.007 ± 0.001 determine the
+weights of configurations with gluon string, two
+quark strings, three quark strings.
+
+Weight of normal distribution is defined by
+formulae (3) and it is the same for pp and pp̄
+collisions.
+
+1
+
+1 + δnsd1 ln s+ δ
+nsd
+2 (ln s)
+
+2
+(3)
+
+Weights of double NBD are different for
+pp (4) and pp̄ (5) interactions because in case of
+proton-antiproton configuration with two gluons
+also gives contribution to three quark strings. It
+is taken into account by coefficient c, which does
+not depend on energy of collision.
+
+δnsd1 ln s+ δ
+nsd
+2 (ln s)
+
+2
+
+1 + δnsd1 ln s+ δ
+nsd
+2 (ln s)
+
+2
+(4)
+
+δnsd1 ln s+ (1− c) δnsd2 (ln s)2
+
+1 + δnsd1 ln s+ δ
+nsd
+2 (ln s)
+
+2
+(5)
+
+Therefore weight of triple NBD in configu-
+ration with three quark strings in pp̄ collision is
+defined by formulae (6).
+
+c δnsd2 (ln s)
+2
+
+1 + δnsd1 ln s+ δ
+nsd
+2 (ln s)
+
+2
+(6)
+
+But coefficient c can not be evaluated from the
+existing data, so we consider two possible values
+of it – 0.25 and 0.75.
+
+V. EXPERIMENTAL DATA ON
+
+CHARGED MULTIPLICITY
+
+DISTRIBUTIONS
+
+With assumptions stated in previous sec-
+tions we described experimental data on charged
+particle multiplicity for pp collisions at energy
+range from
+
+√
+s = 44.5 to 200 GeV [5, 6] and for
+
+pp̄ collisions from 200 to 1800 GeV [7] – [9].
+In case of pp interaction weights of distribu-
+
+tions are strictly defined by formulaes (3), (4). In
+Fig. 5 multiplicity distributions in pp interaction
+at
+
+√
+s = 44.5 and
+
+√
+s = 62.2 GeV are shown.
+
+Here dash-dot line presents normal distribution
+in gluon string and dotted line presents double
+
+3
+
+
+
+Radchenko N.V.
+
+n
+5 10 15 20 25 30 35
+
+n
+P
+
+-410
+
+-310
+
+-210
+
+-110
+
+44.5 GeV
+
+n
+5 10 15 20 25 30 35
+
+62.2 GeV
+
+experiment
+
+Normal d.
+
+2 NBD
+
+sum
+
+FIG. 5: pp interaction at
+√
+s = 44.5 (χ2/ndf = 13/15)
+
+and
+√
+s = 62.2 GeV (χ2/ndf = 13/16)
+
+n
+0 10 20 30 40 50 60 70
+
+n
+P
+
+-410
+
+-310
+
+-210
+
+-110
+
+c = 0.25
+
+n
+0 10 20 30 40 50 60 70
+
+c = 0.75
+
+experiment
+
+Normal d.
+
+2 NBD
+
+3 NBD
+
+sum
+
+FIG. 6: pp̄ interaction at
+√
+s = 200 GeV
+
+NBD in two quark strings, solid line is sum of
+these distributions.
+
+But in case of pp̄ interaction we have ad-
+ditional configuration with three quark strings,
+so weights of distributions are defined by formu-
+laes (3), (5) and (6). The last two formulaes
+have undefined parameter – coefficient c which
+describes appearance of three quark strings.
+
+In Fig. 6 two fittings of pp̄ collision at
+√
+s =
+
+200 GeV are shown. Here dash-dot line presents
+normal distribution in gluon string, dotted line
+presents double NBD in two quark strings and
+dashed line presents triple NBD in three quark
+strings, solid line is sum of these distributions.
+
+n
+0 50 100 150 200 250
+
+n
+P
+
+-610
+
+-510
+
+-410
+
+-310
+
+-210
+
+-110
+
+c = 0.25
+
+n
+0 50 100 150 200 250
+
+c = 0.75
+
+experiment
+
+Normal d.
+
+2 NBD
+
+3 NBD
+
+sum
+
+FIG. 7: pp̄ interaction at
+√
+s = 1800 GeV
+
+n
+0 20 40 60 80 100 120
+
+n
+P
+
+-510
+
+-410
+
+-310
+
+-210
+
+n
+0 20 40 60 80 100 120
+
+pp 
+
+p p, LCNM
+
+FIG. 8: pp̄ interaction at
+√
+s = 900 GeV (points) and
+
+prediction for pp at the same energy in LCNM for
+c = 0.75 (line) in logarithmic and linear scale
+
+On the left side the case when 25 per cent of two
+gluons give three quark strings is shown, on the
+right side – the case when 75 per cent of two glu-
+ons give three quark strings. Values of χ2 to num-
+ber of degrees of freedom are the same for both
+cases, χ2/ndf = 4/29. As energy increases higher
+value of coefficient c gives slightly better value of
+χ2/ndf , for example, at the highest available en-
+ergy
+
+√
+s = 1800 GeV χ2/ndf = 138/115 when
+
+c = 0.25 and χ2/ndf = 126/115 when c = 0.75
+(Fig. 7).
+
+After fitting all data we obtained energy
+dependence of parameters of gluon and quark
+
+4
+
+
+
+Difference in multiplicity distributions in pp and pp̄ at high energies
+
+n
+0 50 100 150 200 250 300 350
+
+n
+P
+
+-510
+
+-410
+
+-310
+
+-210
+
+n
+50 100 150 200 250 300 350
+
+14 TeV, pp
+
+c = 0.75
+
+c = 0.25
+
+FIG. 9: Prediction of multiplicity distribution for pp
+interaction at
+
+√
+s = 14 TeV in LCNM for c = 0.75
+
+(solid line) and for c = 0.25 (dashed line) in logarith-
+mic and linear scale
+
+strings ad thus we can predict the multiplicity
+distribution for pp collisions at 900 GeV. This is
+the first high enough energy for which it will be
+possible to compare multiplicity distributions for
+pp and pp̄ interactions directly after start up of
+LHC. In the case of c = 0.25 the shapes for both
+reactions are practically the same. But in the case
+of c = 0.75 the systematic difference may be ob-
+served in region of “shoulder” given very precise
+measurements (Fig. 8).
+
+VI. PREDICTIONS FOR LHC ENERGY
+
+14 TEV
+
+We predict the value of total cross section at√
+s = 14 TeV to be
+
+σpptot = 101.30 ± 6.65.
+
+The multiplicity distribution for pp interac-
+
+tion can be described as sum of normal distri-
+bution in gluon string and double negative bino-
+mial distribution in two quark strings. Weights
+of these distributions are strictly defined by for-
+mulaes (3), (4). Parameters of normal distri-
+bution are mean multiplicity in gluon string n̄gl
+and standard deviation σgl. Parameters of double
+NBD are mean multiplicity in quark string n̄q and
+shape parameter kq. Since parameters of quark
+and gluon strings must be obtained at simultane-
+ous fitting of pp and pp̄ distributions, they con-
+tain uncertainty of three quark strings coefficient
+c. So we have two sets of energy dependencies for
+gluon and quark string parameters.
+
+c = 0.25
+
+n̄q = 3.45 + 0.46 ln
+2 √s
+
+k−1q = −0.24 + 0.11 ln
+√
+s
+
+n̄gl = −5.86 + 3.77 ln
+√
+s
+
+σgl = −2.67 + 1.52 ln
+√
+s
+
+c = 0.75
+
+n̄q = 3.73 + 0.41 ln
+2 √s
+
+k−1q = −0.30 + 0.13 ln
+√
+s
+
+n̄gl = −6.65 + 3.97 ln
+√
+s
+
+σgl = −2.75 + 1.55 ln
+√
+s
+
+Predictions for charged multiplicity distri-
+bution for energy
+
+√
+s = 14 TeV are shown in
+
+Fig. 9 for both cases of three quark strings co-
+efficient c. The values of mean multiplicity are
+the following
+
+n̄pp =
+
+{
+
+68.59 ± 4.47, if c = 0.25;
+63.20 ± 4.19, if c = 0.75.
+
+It will be possible to distinguish between two
+values of coefficient c when experimental data are
+available.
+
+[1] Abramovsky V.A., Kancheli O.V. (1980) JETP
+Letters 31:566-569, 32:498-501.
+
+[2] Cudell J.R. et al. (2000) Phys. Rev. D 61:034019.
+[3] Amsler C. et al. (2008) Phys. Lett. B 667:1-6.
+[4] Alner G.J. et al. (1986) Z. Phys. C 32:153-161.
+[5] Breakstone A. et al. (1984) Phys. Rev. D 30:528-
+
+535.
+
+[6] Sagerer J. (2004) http://www.phobos.bnl.gov/
+Presentations/index.htm
+
+[7] Alner G.J. et al. (1987) Phys. Rept. 154:247-283.
+[8] Ansorge R.E. et al. (1989) Z. Phys. C 43:357-374.
+[9] Alexopoulos T. et al. (1998) Phys. Lett. B 435:453-
+
+457.
+
+5
+
+
+
